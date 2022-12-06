@@ -2,7 +2,7 @@
   <div>
     <div class="container mx-auto">
       <BlogHeader />
-      <NuxtPage />
+      <BlogHero />
     </div>
     <BlogFooter />
   </div>
